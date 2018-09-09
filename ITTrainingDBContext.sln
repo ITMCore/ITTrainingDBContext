@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITTrainingDBContext", "ITTrainingDBContext\ITTrainingDBContext.csproj", "{A30A3A2A-0EB8-45D8-9432-EFA4F36D0F3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A30A3A2A-0EB8-45D8-9432-EFA4F36D0F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A30A3A2A-0EB8-45D8-9432-EFA4F36D0F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A30A3A2A-0EB8-45D8-9432-EFA4F36D0F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A30A3A2A-0EB8-45D8-9432-EFA4F36D0F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7CEBE7E-51AD-439B-92F4-3066FAECED1A}
+	EndGlobalSection
+EndGlobal
