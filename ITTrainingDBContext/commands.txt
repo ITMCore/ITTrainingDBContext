@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "server=localhost;userid=root;password=root;persistsecurityinfo=True;database=ittrainingrepodb;" Pomelo.EntityFrameworkCore.MySql -OutputDir DBContext -Context "ITRepoDBContext" -DataAnnotations -UseDatabaseNames -Force
